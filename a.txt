@@ -9,4 +9,6 @@
 666666666666666666
 添加修改啊啊哈哈哈哈
 
+
 git local update
+git server update
